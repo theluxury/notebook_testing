@@ -13,6 +13,7 @@ jupyter = "^1.0.0"
 pandas = "^2.2.2"
 matplotlib = "^3.8.4"
 backtesting = "^0.3.3"
+pytest = "^8.1.1"
 
 
 [build-system]
