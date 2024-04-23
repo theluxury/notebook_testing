@@ -14,6 +14,8 @@ pandas = "^2.2.2"
 matplotlib = "^3.8.4"
 backtesting = "^0.3.3"
 pytest = "^8.1.1"
+jupyter-bokeh = "^4.0.2"
+yfinance = "^0.2.38"
 
 
 [build-system]
